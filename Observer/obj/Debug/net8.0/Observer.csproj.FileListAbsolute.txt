@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Observer\Observer\bin\Debug\net8.0\Observer.exe
+C:\Users\Lucas\Desktop\Observer\Observer\bin\Debug\net8.0\Observer.deps.json
+C:\Users\Lucas\Desktop\Observer\Observer\bin\Debug\net8.0\Observer.runtimeconfig.json
+C:\Users\Lucas\Desktop\Observer\Observer\bin\Debug\net8.0\Observer.dll
+C:\Users\Lucas\Desktop\Observer\Observer\bin\Debug\net8.0\Observer.pdb
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.sourcelink.json
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.dll
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\refint\Observer.dll
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.pdb
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\Observer.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Observer\Observer\obj\Debug\net8.0\ref\Observer.dll
